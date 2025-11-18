@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="file:///C:/Users/HP/Downloads/harmain%20profile%20pic.jpg"  />
+<img align="right" height="150" src="https://lh3.googleusercontent.com/a/ACg8ocJL41hvUhlhmz2hZa96wTTpbMI5h9xuJVHbTWWFSgnAobKULPbo=s260-c-no"  />
 
 ###
 
