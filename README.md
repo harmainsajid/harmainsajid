@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="file:///C:/Users/HP/Downloads/harmain%20profile%20pic.jpg"  />
 
 ###
 
@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<a href="./snake.yml"><img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /></a>
+<a href="./snake.yml"><img src="[https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)" alt="Snake animation" /></a>
 
 
