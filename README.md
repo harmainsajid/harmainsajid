@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://lh3.googleusercontent.com/a/ACg8ocJL41hvUhlhmz2hZa96wTTpbMI5h9xuJVHbTWWFSgnAobKULPbo=s260-c-no"  />
+<img align="right" height="200" src="https://lh3.googleusercontent.com/a/ACg8ocJL41hvUhlhmz2hZa96wTTpbMI5h9xuJVHbTWWFSgnAobKULPbo=s260-c-no"  />
 
 ###
 
@@ -25,6 +25,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" height="30" alt="c++ logo"  />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" height="30" alt="c++ logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRNsRTVdY9cOulCv7Njkzba2dqLAY6ICb5sQ&s" height="30" alt="bootstrap logo"  />
 </div>
 
 ###
