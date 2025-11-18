@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<a href="./snake.yml"><img src="[https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)" alt="Snake animation" /></a>
+<a href="./snake.yml"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /></a>
 
 
