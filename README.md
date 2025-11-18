@@ -26,8 +26,6 @@
   <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" height="30" alt="c++ logo"  />
   <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" height="30" alt="c++ logo"  />
-  <img width="12" />
   <img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies-thumbnail.png" height="30" alt="bootstrap logo"  />
 </div>
 
