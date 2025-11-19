@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Harmain Sajid and I'm a Software Engineer, from Pakistan</h2>
+<h2 align="center">Hi 👋! My name is Harmain Sajid and I'm a Software Engineer, from Pakistan</h2>
 
 ###
 
@@ -13,23 +13,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" height="30" alt="c++ logo"  />
-  <img width="12" />
-  <img src="https://camo.githubusercontent.com/ecd695fb1ffadab6633f9fcdffaeebc58f3cca722260f0dec7dc607bd9d0e740/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" height="30" alt="bootstrap logo"  />
-</div>
-
-###
 
 ### Frontend  
 <div align="center">  
@@ -45,7 +28,7 @@
 </div>
 
 </td><td valign="top" width="33%">
-###
+
 
 <br clear="both">
 
